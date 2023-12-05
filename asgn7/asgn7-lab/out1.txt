@@ -1,0 +1,2 @@
+Satisfying assignment:
+~p, q, ~r

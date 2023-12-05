@@ -1,0 +1,3 @@
+Alignment with score 1:
+a
+b
